@@ -8,3 +8,4 @@ Currently, this uses the following technology:
 - React JS to control state
 - UUID to generate IDs for each feedback item
 - CSS for styling
+-json-server for backend to store feedback data inputted by users.
