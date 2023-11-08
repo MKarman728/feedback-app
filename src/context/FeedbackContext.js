@@ -52,6 +52,7 @@ export const FeedbackProvider = ({children}) =>{
     return <FeedbackContext.Provider value = {{
         feedback,
         feedbackEdit,
+        isLoading,
         deleteFeedback,
         addFeedback,
         editFeedback,
